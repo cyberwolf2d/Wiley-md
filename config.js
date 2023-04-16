@@ -6,19 +6,19 @@ import fs from 'fs'
 
 //Important & must be change #ATY
 global.owner = [
-  ['916207142994', 'Gariox 3D', true],
-    ['919172389527', 'Shizo The Techie', true]
+  ['916202316574', 'DEEPU', true],
+    ['919172389527', 'Shizo The Techie', false]
 ] 
 global.prems = []
 
 
 //Make Changes #ATY
 global.bname = 'Wiley-md'     //Your Bot Name
-global.oname = 'Gariox & Shizo'     //Your Name
+global.oname = 'DON ZE BACH KE REHNA'     //Your Name
 global.iglink = 'https://Instagram.com/error.mods'     //Your Instagram Link
 global.ytlink = 'https://YouTube.com/@errormodsyt'      //Your YouTube Channel Link
 global.gclink = 'https://chat.whatsapp.com/F8QOoaz3qWqJlI2mwpa1QH' //Your WhatsApp Group Link
-global.script = 'https://github.com/Shizothetechie/wiley-md'  //Donot Change if you appreciate our work 🙂❤️
+global.script = 'https://github.com/cyberwolf2d/wiley-md'  //Donot Change if you appreciate our work 🙂❤️
 
 //ApiKeys (Leave as it is if dont wana face any bug)
 global.openaiKey = ' Your Key Here guys'
@@ -26,10 +26,11 @@ global.shizokeys = 'shizo' //do not change
 global.shizoApikeys = 'shizo' //do not change
 
 //Global Texts
-global.maker = 'Made with ❤️ by TE Developers'
+global.maker = 'Made with ❤️ by teri ma ki chut'
+
 
 // Sticker WM
-global.packname = 'TE DEVELOPERS'
+global.packname = 'DJ DEEPAK'
 global.author = 'Wiley-md'
 
 //Copyrights #MATY
